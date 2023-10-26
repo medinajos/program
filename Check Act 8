@@ -1,0 +1,11 @@
+j = 2
+o = 4
+s = 6 
+h = 8
+u = 10
+a = 12
+sum = j+o+s+h+u+a
+print(sum)
+average = sum/6
+print(average)
+
